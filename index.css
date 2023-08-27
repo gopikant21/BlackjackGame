@@ -1,6 +1,5 @@
 body{
-    display: flex;
-    flex-direction: column;
+    
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-image: url("./a/backjack_image.webp");
     background-repeat: no-repeat;
