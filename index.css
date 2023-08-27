@@ -1,7 +1,5 @@
 body{
-    display: flex;
-    align-item: center;
-    justify-content: center;
+   
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-image: url("./a/backjack_image.webp");
     background-repeat: no-repeat;
